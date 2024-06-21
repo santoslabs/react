@@ -1,0 +1,742 @@
+.root {
+  position: relative;
+  height: 695px;
+  align-self: stretch;
+  flex-direction: column;
+}
+.main {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 60px;
+  height: min-content;
+  flex-direction: column;
+  background-color: #fff;
+}
+.container {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px 240px 0;
+}
+.container2 {
+  width: 1440px;
+  height: min-content;
+  flex-direction: column;
+}
+.container3 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  padding: 0 360px;
+}
+.container4 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 16px;
+  padding: 0 12px;
+}
+.heading1 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.identification {
+  color: #414042;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Open Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.mdsProgressBar {
+  position: relative;
+  height: 8px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2px 0;
+}
+.container5 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+._20 {
+  color: #000;
+  font-size: 16px;
+  font-family: Open Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 18.6081px;
+  height: 22px;
+  justify-content: center;
+  flex-direction: column;
+}
+.backgroundBorder {
+  height: 4px;
+  align-self: stretch;
+  outline: solid 2px #949494;
+  outline-offset: -2px;
+  border-radius: 2px;
+  background-color: #949494;
+}
+.verticalBorder {
+  position: absolute;
+  left: -2px;
+  top: 0;
+  width: 143.19px;
+  height: 8px;
+  border-radius: 4px;
+  box-shadow: inset -4px 0px 0px #fff;
+}
+.backgroundBorder2 {
+  position: absolute;
+  left: 0;
+  right: 80.0014%;
+  top: 0;
+  width: 139.19px;
+  height: 8px;
+  outline: solid 4px #0060f0;
+  outline-offset: -4px;
+  border-radius: 4px;
+  background-color: #0060f0;
+}
+.container6 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  padding: 0 0 575px;
+}
+.container7 {
+  position: relative;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.container8 {
+  position: absolute;
+  left: 120px;
+  right: 1080px;
+  top: -36px;
+  height: min-content;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0 12px 22px;
+}
+.container9 {
+  position: relative;
+  height: 25px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.container10 {
+  position: absolute;
+  left: 0;
+  top: calc(50% - -3.5px);
+  width: min-content;
+  height: min-content;
+  padding: 1px 0 7px;
+  transform: translateY(-50%);
+}
+.container11 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+}
+.icon {
+  width: 12px;
+  height: 24px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.questions {
+  color: #414042;
+  font-size: 14px;
+  font-family: Open Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 15.64px;
+  top: 1.75px;
+  width: 72.5613px;
+  height: 19px;
+  justify-content: center;
+  flex-direction: column;
+}
+.container12 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.mdsLinkLink {
+  position: relative;
+  width: 120.92px;
+  height: 19px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.readOurFAQs {
+  color: #0060f0;
+  font-size: 14.4px;
+  font-family: Open Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 103.2059px;
+  height: 19px;
+  justify-content: center;
+  flex-direction: column;
+}
+.container13 {
+  position: absolute;
+  left: 102.53px;
+  top: calc(50% - -0.7353px);
+  width: min-content;
+  height: min-content;
+  padding: 0 0 1.8px 4px;
+  transform: translateY(-50%);
+}
+.sVG {
+  width: 14.3906px;
+  height: 14.3906px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.container14 {
+  position: absolute;
+  left: 360px;
+  right: 360px;
+  top: 0;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 24px 12px 148px;
+}
+.container15 {
+  position: absolute;
+  left: 277.56px;
+  top: 353px;
+  width: 1px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  flex-direction: column;
+  overflow: hidden;
+}
+.container16 {
+  position: absolute;
+  left: 353.41px;
+  top: 408px;
+  width: 1px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  flex-direction: column;
+  overflow: hidden;
+}
+.container17 {
+  position: relative;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 16px;
+}
+.heading2 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.letSConfirmYourIdentity {
+  color: #101820;
+  font-size: 28px;
+  font-family: Open Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.heading3 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.toProtectYourAccountPleaseTell {
+  color: #101820;
+  font-size: 14px;
+  font-family: Open Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.thanOneAccountChooseOneAndWeLl {
+  color: #101820;
+  font-size: 14px;
+  font-family: Open Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.commercialAdministratorsMustTe {
+  color: #101820;
+  font-size: 14px;
+  font-family: Open Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.container18 {
+  position: relative;
+  height: 258px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.container19 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: min-content;
+  flex-direction: column;
+  gap: 24px;
+}
+.required {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.container20 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  padding: 1.5px 0 0.5px;
+}
+.labelSocialSecurityNumberOrTax {
+  color: #717171;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Open Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.container21 {
+  position: relative;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.input {
+  position: relative;
+  height: 32px;
+  align-self: stretch;
+  flex-direction: column;
+  background-color: #ffffff01;
+  box-shadow: inset 0px -1px 0px 0px #949494;
+}
+.mdsButton {
+  position: absolute;
+  left: 83.3009%;
+  right: 0%;
+  top: 0;
+  width: 116.2259px;
+  height: min-content;
+}
+.button {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+.show {
+  color: #0060f0;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  font-family: Open Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.required2 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.container22 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  padding: 1.5px 0 0.5px;
+}
+.labelAccountCardOrApplicationN {
+  color: #717171;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Open Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.container23 {
+  position: relative;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.input2 {
+  position: relative;
+  height: 32px;
+  align-self: stretch;
+  flex-direction: column;
+  background-color: #ffffff01;
+  box-shadow: inset 0px -1px 0px 0px #949494;
+}
+.mdsButton2 {
+  position: absolute;
+  left: 83.3009%;
+  right: 0%;
+  top: 0;
+  width: 116.2259px;
+  height: min-content;
+}
+.button2 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+.show2 {
+  color: #0060f0;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  font-family: Open Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.container24 {
+  position: absolute;
+  left: 0;
+  right: 69.61px;
+  top: 168px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.mdsLink {
+  width: min-content;
+  height: min-content;
+}
+.link {
+  position: relative;
+  height: 19px;
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.donTHaveASocialSecurityNumber {
+  color: #0060f0;
+  font-size: 14.4px;
+  font-family: Open Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 247.5623px;
+  height: 19px;
+  justify-content: center;
+  flex-direction: column;
+}
+.container25 {
+  position: absolute;
+  left: 247.17px;
+  top: calc(50% - -0.7353px);
+  width: min-content;
+  height: min-content;
+  padding: 0 0 1.8px 4px;
+  transform: translateY(-50%);
+}
+.sVG2 {
+  width: 14.3906px;
+  height: 14.3906px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.container26 {
+  position: absolute;
+  left: 0;
+  right: 69.61px;
+  top: 223px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.mdsLink2 {
+  width: min-content;
+  height: min-content;
+}
+.link2 {
+  position: relative;
+  height: 19px;
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.areYouAnAuthorizedUserOnAnothe {
+  color: #0060f0;
+  font-size: 14.4px;
+  font-family: Open Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 323.5974px;
+  height: 19px;
+  justify-content: center;
+  flex-direction: column;
+}
+.container27 {
+  position: absolute;
+  left: 323.02px;
+  top: calc(50% - -0.7353px);
+  width: min-content;
+  height: min-content;
+  padding: 0 0 1.8px 4px;
+  transform: translateY(-50%);
+}
+.sVG3 {
+  width: 14.3906px;
+  height: 14.3906px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.container28 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 274px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 4px;
+}
+.mdsButtonButton {
+  width: min-content;
+  height: min-content;
+  padding: 6px 61.74px 6px 61.73px;
+  border-radius: 4px;
+  background-color: #0060f0;
+}
+.next {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: Open Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.headerMdsBrandBar {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: min-content;
+  flex-direction: column;
+  background-color: #0846a8;
+  overflow: hidden;
+}
+.container29 {
+  height: min-content;
+  align-self: stretch;
+  padding: 0 360px;
+}
+.container30 {
+  flex: 1;
+  align-self: stretch;
+  flex-direction: column;
+}
+.container31 {
+  height: min-content;
+  align-self: stretch;
+  align-items: center;
+  padding: 12px 24px;
+}
+.container32 {
+  height: min-content;
+  flex: 1;
+}
+.mdsButton3 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  flex-direction: column;
+}
+.button3 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  justify-content: center;
+  align-items: center;
+  padding: 6px 8px;
+  border-radius: 4px;
+}
+.margin {
+  width: 28px;
+  height: 20px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 8px 0 0;
+}
+.container33 {
+  width: 20px;
+  height: 20px;
+  flex-direction: column;
+  align-items: center;
+}
+.container34 {
+  width: min-content;
+  height: min-content;
+}
+.sVG4 {
+  width: 20px;
+  height: 20px;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.container35 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+}
+.exit {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: Open Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.container36 {
+  width: min-content;
+  height: min-content;
+}
+.link3 {
+  width: min-content;
+  align-self: stretch;
+  align-items: center;
+}
+.octogonWhitePng {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/octogonWhitePng.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.container37 {
+  height: min-content;
+  flex: 1;
+  justify-content: flex-end;
+}
+.container38 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  padding: 0 0 0 8px;
+}
+.mdsButton4 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  flex-direction: column;
+}
+.button4 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  padding: 6px 8px;
+  border-radius: 4px;
+}
+.espanol {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: Open Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
